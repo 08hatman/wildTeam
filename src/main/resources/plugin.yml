@@ -1,0 +1,5 @@
+name: Wildteam
+version: '${project.version}'
+main: survival.wildteam.Wildteam
+api-version: 1.18
+authors: [ heygoodluk, Perdume ]
